@@ -1,0 +1,10 @@
+
+
+to open up the dashboard: 
+
+install first: 
+sudo npm install -g parse-dashboard
+
+then do this while inserting your appID and key: (if alrdy install, you can only do this is fine too)
+parse-dashboard --appId Parstagram --masterKey myMasterKey --serverURL "https://warm-plains-50595.herokuapp.com/parse"
+
